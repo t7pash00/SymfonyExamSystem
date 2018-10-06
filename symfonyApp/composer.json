@@ -12,6 +12,7 @@
         "symfony/orm-pack": "^1.0",
         "symfony/templating": "*",
         "symfony/twig-bundle": "*",
+        "symfony/webpack-encore-pack": "^1.0",
         "symfony/yaml": "*"
     },
     "require-dev": {
