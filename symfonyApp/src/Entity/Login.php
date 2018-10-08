@@ -55,3 +55,12 @@ class Login
         return $this;
     }
 }
+public function getSalt()
+    {
+        return null;
+    }
+
+    public function eraseCredentials()
+    {
+        // TODO: Implement eraseCredentials() method.
+    }
